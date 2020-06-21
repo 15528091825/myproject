@@ -1,0 +1,310 @@
+{
+  "id": "1822995",
+  "name": "new text",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "720792",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "731322",
+      "name": "账号锁",
+      "font_class": "guanbi",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1323276",
+      "name": "账号异常",
+      "font_class": "gaojingxinxi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1964583",
+      "name": "密码",
+      "font_class": "mima1",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "4584754",
+      "name": "账号管理",
+      "font_class": "zhanghaoguanli",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "5022485",
+      "name": "账号管理",
+      "font_class": "zhanghaoguanli1",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "5444341",
+      "name": "账号注销",
+      "font_class": "zhanghaozhuxiao",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "5587174",
+      "name": "密码",
+      "font_class": "mimalan",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5648976",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "6058884",
+      "name": "账号设置",
+      "font_class": "Account-Settings",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "6338164",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "7081780",
+      "name": "眼睛",
+      "font_class": "yanjing-",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "7515704",
+      "name": "账号管理",
+      "font_class": "zhanghaoguanli2",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "7516897",
+      "name": "密码",
+      "font_class": "mima2",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "8351892",
+      "name": "眼睛1",
+      "font_class": "yanjing1",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "10268895",
+      "name": "账号相关",
+      "font_class": "zhanghaoxiangguan",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "11696916",
+      "name": "账号-选中",
+      "font_class": "zhanghao-xuanzhong",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13478698",
+      "name": "密码",
+      "font_class": "A",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "14542751",
+      "name": "调查表导入",
+      "font_class": "tiaochabiaodaoru",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "14542752",
+      "name": "基础信息",
+      "font_class": "jichuxinxi",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "14542753",
+      "name": "正统统计",
+      "font_class": "zhengtongtongji",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "14542754",
+      "name": "图片管理",
+      "font_class": "tupianguanli",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "14542755",
+      "name": "调查表管理",
+      "font_class": "tiaochabiaoguanli",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    },
+    {
+      "icon_id": "14542756",
+      "name": "三间分布分析",
+      "font_class": "sanjianfenbufenxi",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    },
+    {
+      "icon_id": "14542757",
+      "name": "创建调查表",
+      "font_class": "chuangjiantiaochabiao",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "14542758",
+      "name": "数据筛选",
+      "font_class": "shujushaixuan",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "14542759",
+      "name": "数据清理",
+      "font_class": "shujuqingli",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "14542760",
+      "name": "账号管理",
+      "font_class": "zhanghaoguanli3",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "14542761",
+      "name": "数据导入",
+      "font_class": "shujudaoru",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "14542762",
+      "name": "时间趋势分析",
+      "font_class": "shijianqushifenxi",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "14542763",
+      "name": "人员管理",
+      "font_class": "renyuanguanli",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "14542764",
+      "name": "人群分析",
+      "font_class": "renqunfenxi",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "14542765",
+      "name": "调查表导出",
+      "font_class": "tiaochabiaodaochu",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "14542766",
+      "name": "数据融合",
+      "font_class": "shujuronghe",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "14542767",
+      "name": "数据整理",
+      "font_class": "shujuzhengli",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "14542768",
+      "name": "数据录入",
+      "font_class": "shujuluru",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    },
+    {
+      "icon_id": "14542769",
+      "name": "大事件管理",
+      "font_class": "dashijianguanli",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "14542770",
+      "name": "空间趋势分析",
+      "font_class": "kongjianqushifenxi",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "14542771",
+      "name": "数据管理",
+      "font_class": "shujuguanli",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "14542772",
+      "name": "系统设置",
+      "font_class": "xitongshezhi",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    },
+    {
+      "icon_id": "14542773",
+      "name": "传播链分析",
+      "font_class": "chuanbolianfenxi",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "14542774",
+      "name": "数据导出",
+      "font_class": "shujudaochu",
+      "unicode": "e780",
+      "unicode_decimal": 59264
+    },
+    {
+      "icon_id": "14656458",
+      "name": "账号安全",
+      "font_class": "zhanghaoanquan",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    }
+  ]
+}
